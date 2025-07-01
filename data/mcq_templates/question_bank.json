@@ -1,0 +1,29 @@
+{
+  "python": [
+    {
+      "question": "What is the output of print(2 ** 3)?",
+      "options": ["5", "6", "8", "9"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "2 to the power of 3 is 8"
+    }
+  ],
+  "sql": [
+    {
+      "question": "Which SQL clause is used to filter rows?",
+      "options": ["WHERE", "SELECT", "GROUP BY", "ORDER BY"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "WHERE is used to filter rows."
+    }
+  ],
+  "flask": [
+    {
+      "question": "Which function is used to start a Flask application?",
+      "options": ["run()", "start()", "flask()", "init()"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "The run() method starts the Flask app."
+    }
+  ]
+}

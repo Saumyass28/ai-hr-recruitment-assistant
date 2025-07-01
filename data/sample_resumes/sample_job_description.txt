@@ -1,0 +1,14 @@
+"""
+Job Title: AI Engineer
+
+We are looking for an AI Engineer skilled in:
+- Python
+- Machine Learning
+- SQL
+- Flask
+- Data analysis
+
+Minimum 2 years of experience.
+
+Preferred: Knowledge of Streamlit, cloud deployment.
+"""
